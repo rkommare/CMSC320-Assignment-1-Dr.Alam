@@ -5,3 +5,7 @@ Answer: What does that even mean?
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to machine learning by creating good data sets for teaching AI.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves history while rebasing does not.
